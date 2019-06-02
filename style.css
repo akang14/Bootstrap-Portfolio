@@ -43,6 +43,8 @@ a {
     margin: 30px;
     margin-left: 12%;
     border: 1px solid #dddddd;
+    clear: both;
+    grid-auto-columns: auto;
 }
 
 #main-bio {
