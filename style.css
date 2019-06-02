@@ -1,18 +1,10 @@
 *{
     margin:0;
     padding:0;
+    width:100%;
     
 }
-@media (min-width: 576px) { ... }
 
-
-@media (min-width: 768px) { ... }
-
-
-@media (min-width: 992px) { ... }
-
-@media (min-width: 1200px) { ... }
-       
 .header{
     height: 65px;
     width: 960px;
@@ -48,7 +40,7 @@ a {
 
 .main-container{
     background-color: white;
-    width: 960px;
+    width: auto;
     float: left;
     position: relative;
     margin: 30px;
